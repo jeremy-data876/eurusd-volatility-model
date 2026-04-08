@@ -2,7 +2,7 @@
 ![R](https://img.shields.io/badge/R-4.x-blue.svg) ![Field](https://img.shields.io/badge/Field-Econometrics-green.svg) ![API](https://img.shields.io/badge/Data-AlphaVantage-orange.svg)
 
 ## 📊 Project Overview
-[cite_start]As an **Economics & Statistics** student at UWI, I developed this project to analyze risk clustering in the foreign exchange market.  [cite_start]Using the `rugarch` package, I built a GARCH(1,1) model to forecast the conditional volatility of the EUR/USD currency pair. 
+As an **Economics & Statistics** student at UWI, I developed this project to analyze risk clustering in the foreign exchange market. Using the `rugarch` package, I built a GARCH(1,1) model to forecast the conditional volatility of the EUR/USD currency pair. 
 
 ## 🛠️ Key Features
 * [cite_start]**Financial Data Engineering:** Processed raw API data into log returns to ensure time-series stationarity. 
