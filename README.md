@@ -18,4 +18,4 @@ I developed this project to analyze risk clustering in the foreign exchange mark
 *Figure 2: Conditional volatility over time, identifying periods of high market turbulence.* 
 
 ---
-*Developed by Jeremy Brown — University of the West Indies, Mona* [cite: 1, 15]
+*Developed by Jeremy Brown — University of the West Indies, Mona*
