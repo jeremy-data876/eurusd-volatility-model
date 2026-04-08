@@ -11,10 +11,10 @@ I developed this project to analyze risk clustering in the foreign exchange mark
 * **Risk Forecasting:** Generated five-day volatility forecasts to visualize projected market risk. 
 
 ## 📈 Visualizations
-![Distribution of Returns]()
+![Distribution of Returns](output/eurusd_return_distribution.png)
 *Figure 1: Comparison of actual log returns against a theoretical normal distribution, highlighting non-normal "fat tails."* 
 
-![Volatility Forecast]()
+![Volatility Forecast](output/eurusd_volatility_garch.png)
 *Figure 2: Conditional volatility over time, identifying periods of high market turbulence.* 
 
 ---
